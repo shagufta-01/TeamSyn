@@ -108,7 +108,7 @@ For detailed API documentation, check **API_DOCS.md** 📖
 ---
 
 ## 🤝 **Contributors**  
-- **Shaggufta fatima** - *Developer & Maintainer*  
+- **Shagufta fatima** - *Developer & Maintainer*  
 
 ---
 
