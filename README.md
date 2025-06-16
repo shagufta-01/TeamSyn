@@ -1,6 +1,6 @@
 # **Teamsync** 🚀  
 
-## *Demo Here* [Teamsync](https://team-sync-09eeee.vercel.app/)
+
 ### **A Powerful Team Collaboration & Project Management Tool**  
 
 ## 📌 **Overview**  
@@ -108,7 +108,7 @@ For detailed API documentation, check **API_DOCS.md** 📖
 ---
 
 ## 🤝 **Contributors**  
-- **Owaais Nazir** - *Developer & Maintainer*  
+- **Shaggufta fatima** - *Developer & Maintainer*  
 
 ---
 
